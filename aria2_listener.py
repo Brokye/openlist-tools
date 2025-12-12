@@ -6,7 +6,7 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 # --- 配置信息 ---
 HOST = 'localhost'
 PORT = 6800
-RPC_SECRET = 'Brokye123654'
+RPC_SECRET = 'Brokye'
 SAVE_FILE = 'aria2_links.txt'  # 保存链接的文件名
 
 
